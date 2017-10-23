@@ -1,0 +1,111 @@
+/*max_width_991*/
+@media screen and (max-width: 991px) {
+    .default_button{
+        padding: 10px 25px;
+        font-size:  13px;
+    }
+    section{
+        padding: 80px 0px;
+    }
+    .heading h1{
+        font-size: 25px;
+    }
+    .navber_default .navber_nav li a{
+        font-size: 13px;
+        padding: 28px 14px;
+    }
+    .navber_right{
+        margin: -59px 0px 0px 0px;
+    }
+    .hourse{
+        left: 45px;
+        top: -11px;
+    }
+    .carousel_caption{
+        margin: 79px auto;
+    }
+    .carousel_caption h1{
+        font-size: 30px;
+    }
+    .carousel_caption p{
+        width: 75%;
+        font-size: 13px;
+        margin: 20px auto 40px auto;
+    }
+    .carousel-control.left{
+        top: 137px;
+    }
+    .carousel-control.right{
+        top: 137px;
+    }
+    .about_us{
+        padding: 80px;
+    }
+    .about_us_left h1{
+        font-size: 25px;
+        padding: 0px 0px 25px 0px;
+    }
+    .about_us_left p{
+        margin: 25px 0px 0px 0px;
+        font-size: 13px;
+    }
+    .products{
+        margin-top: 35px;
+    }
+    .product_details{
+        margin: 165px 0px;
+    }
+    .j_carousel img{
+        padding: 0px 3px;
+    }
+    .jcarousel_prev_arrow{
+        margin: 0px 0px 0px -60px;
+    }
+    .jcarousel_prev_arrow_right{
+        margin: 0px -45px 0px 0px;
+    }
+    .client h3{
+        font-size: 16px;
+    }
+    .client p{
+        font-size: 12px;
+    }
+    .clients_massage p{
+        font-size: 13px;
+    }
+    .clients_massage .quote_left{
+        font-size: 25px;
+    }
+    .clients_massage .quote_right{
+        margin: -9px 0px 0px 300px;
+        font-size: 25px;
+    }
+    .carousel .testimonial_control_left{
+        margin: 56px 0px 0px 300px;
+    }
+    .carousel .testimonial_control_right{
+        margin: 56px 324px 0px 0px;
+    }
+    .last_two_members{
+        
+    }
+    .bottom_footer_right{
+        margin: 10px 0px;
+    }
+    .bottom_footer_left p{
+        font-size: 11px;
+        margin: 0px 0px 0px 60px;
+    }
+    .bottom_footer_right p{
+        font-size: 11px;
+        margin: 0px 0px 0px 108px;
+    }
+}
+/*max_width_360px*/
+@media screen and (max-width: 360px) {
+    
+}
+/*max_width_320px*/
+@media screen and (max-width: 320px) {
+    
+}
